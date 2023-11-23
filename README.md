@@ -12,9 +12,9 @@
 
 <p align="left">📚 I'm currently learning Django and computer sience.
 <br><br>
-I am looking to improve my Python and Django skills and I have put my overall focus on this goal. <br>
-I am highly motivated to learn more deeply in the field of web development and Django, and I am interested in the field of security and networking.<br>
-I have a good ability to work in coordinated teams and succeed in group projects.</p>
+💻 I'm looking to improve my Python and Django skills and I have put my overall focus on this goal. <br>
+💻 I'm highly motivated to learn more deeply in the field of web development and Django, and I am interested in the field of security and networking.<br>
+👉 I have a good ability to work in coordinated teams and succeed in group projects.</p>
 
 ###
 
