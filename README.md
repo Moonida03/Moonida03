@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Aida and I'm a python programmer and work with Django, from Iran.</p>
+<p align="left">I'm Aida and I am a python programmer and work with Django, from Iran.</p>
 
 ###
 
